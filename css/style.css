@@ -1,0 +1,323 @@
+:root{
+	--f7-theme-color:#5079FE;
+	--f7-navbar-bg-color: #511774; /*navbar*/
+	--f7-navbar-link-color:#FFFFFF; /*navbar link*/
+	--f7-navbar-text-color:#FFFFFF;
+	--f7-bars-bg-color:#FFFFFF;/*toolbar*/
+	--f7-tabbar-link-inactive-color: #333; /*link toolbar*/
+	--f7-block-margin-vertical:20px;
+	--f7-card-footer-border-color:transparent; 
+}
+
+
+
+#panel-contacto .img-fluid{
+	
+	max-width: 12%;
+}
+
+
+#panel-contacto .mi-imagen{
+	
+	max-width: 100%;
+	margin-top: 59px;
+}
+
+
+section{
+	background-color: #000000;
+}
+
+.block-strong{
+	text-align: center;
+	margin-top: 80px;
+	text color:#FFFFFF;
+	background-color: #000000;
+}
+
+#panel-contacto .item-inner{
+	 
+}
+
+#panel-contacto .block-title-large{
+	color: #B86FF8;
+}
+
+
+#panel-contacto .block{
+	color: #fff;
+}
+
+#panel-contacto p{
+	color: #fff;
+}
+
+#panel-contacto h2{
+	color: #fff;
+}
+
+#panel-contacto .block-title{
+	color: #fff;
+}
+
+#panel-taza1 .block-title-medium{
+	color: #fff;
+}
+
+#panel-taza1 p{
+	color: #fff;
+}
+
+#panel-taza1 .mi-imagen{
+display: flex;
+ display: block;
+  margin: 0 auto;
+}
+
+#panel-taza1 .mi-imagen2{
+display: flex;
+ display: block;
+  margin: 0 auto;
+}
+
+#panel-taza1 h2{
+	color: #fff;
+	display: flex;
+ display: block;
+  margin: 0 auto;
+}
+
+#panel-products h4{
+	color: #fff;
+}
+
+#panel-products .block-title-medium{
+	color: #fff;
+	display: flex;
+ display: block;
+  margin: 0 auto;
+ text-align: center;
+}
+
+#panel-products .material-icons{
+	color: #fff;
+}
+
+#panel-products .item-price{
+	color: #fff;
+}
+
+#panel-taza2 .block-title-medium{
+	color: #fff;
+}
+
+#panel-taza2 p{
+	color: #fff;
+}
+
+#panel-taza2 .mi-imagen{
+display: flex;
+ display: block;
+  margin: 0 auto;
+}
+
+#panel-taza2 .mi-imagen2{
+display: flex;
+ display: block;
+  margin: 0 auto;
+}
+
+#panel-taza2 h2{
+	color: #fff;
+	display: flex;
+ display: block;
+  margin: 0 auto;
+}
+
+#panel-acercadenosotros p{
+	color: #fff;
+	text-align: center;
+}
+
+#panel-acercadenosotros .block-title-medium{
+	color: #fff;
+	text-align: center;
+}
+
+#panel-acercadenosotros .img-fluid{
+	text-align: center;
+	margin-top: 59px;
+	display: flex;
+ display: block;
+  margin: 0 auto;
+}
+
+#panel-acercadenosotros h4 {
+	color: #fff;
+}
+
+#panel-carrito .img-fluid{
+	text-align: center;
+	margin-top: 40px;
+	display: flex;
+ display: block;
+  margin: 0 auto;
+	
+}
+
+#panel-carrito .block-title-medium{
+	
+	color: #fff;
+}
+
+#panel-carrito .row{
+	color: #fff;
+	
+}
+
+#panel-carrito .page-content{
+	
+	color: #fff;
+}
+
+
+
+h1,h2,h3,h4,h5,h6,p{
+	margin: 1px;
+}
+
+#panel-user-info .img-fluid{
+	max-width: 100%;
+}
+#panel-user-info{
+	background-color: var(--f7-theme-color);
+	margin: 0;
+	padding: 10px 20px;
+	color: #fff;
+}
+#panel-user-info img{
+	border-radius: 100%;
+	border: 2px solid #fff;
+	background-color: #fafafa;
+}
+#panel-nav .list{
+	margin-top: 0;
+	font-size: 14px;
+
+}
+
+#panel-nav .material-icons{
+	color: #FFFFFF;
+}
+#panel-nav .list i{
+	color: var(--f7-theme-color);	
+}
+
+#content-products{
+	background-color: #000000;
+}
+
+#panel-products .item-media{
+	width: 130px;
+}
+#panel-products .item-title{
+	color: #fff;
+	font-weight: 700;
+}
+#panel-products .item-subtitle{
+	font-weight: 400;
+	font-size: 12px;
+	color: #fff;
+}
+#panel-products i{
+	color: #fff;
+	font-size: 15px;
+}
+#panel-products .item-price{
+	font-weight: 600;
+}
+
+#panel-products .list{
+	background-color: #000000;
+}
+#panel-products .item-content{
+	background-color:#000000 ;
+	margin-bottom: 20px;
+}
+
+.login-screen-content{
+	margin-top: 10% !important;
+}
+
+#panel-comprar{
+	color: #fff;
+}
+
+#panel-comprar h2{
+	color: #fff;
+}
+
+#panel-comprar ul{
+	text-align: left;
+}
+
+
+#panel-lampara1 .block-title-medium{
+	color: #fff;
+}
+
+#panel-lampara1 p{
+	color: #fff;
+}
+
+#panel-lampara1 .mi-imagen{
+display: flex;
+ display: block;
+  margin: 0 auto;
+}
+
+#panel-lampara1 .mi-imagen2{
+display: flex;
+ display: block;
+  margin: 0 auto;
+}
+
+#panel-lampara1 h2{
+	color: #fff;
+	display: flex;
+ display: block;
+  margin: 0 auto;
+}
+
+
+#panel-lampara2 .block-title-medium{
+	color: #fff;
+}
+
+#panel-lampara2 p{
+	color: #fff;
+}
+
+#panel-lampara2 .mi-imagen{
+display: flex;
+ display: block;
+  margin: 0 auto;
+}
+
+#panel-lampara2 .mi-imagen2{
+display: flex;
+ display: block;
+  margin: 0 auto;
+}
+
+#panel-lampara2 h2{
+	color: #fff;
+	display: flex;
+ display: block;
+  margin: 0 auto;
+}
+
+#panel-inicial{
+	margin-top: 20px;
+	
+}
